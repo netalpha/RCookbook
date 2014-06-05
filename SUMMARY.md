@@ -11,7 +11,7 @@
    * [Lists](basics/lists.md)
    * [Data Frames](basics/data_frames.md)
    * [Creating New Functions](basics/creating_new_functions.md)
-* [Useful Information](useful_information/README)
+* [Useful Information](useful_information/README.md)
    * [Some useful links](useful_information/some_useful_links.md)
    * [Seek for Help](useful_information/seek_for_help.md)
    * [Some Useful Packages](useful_information/some_useful_packages.md)
